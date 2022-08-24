@@ -1,18 +1,16 @@
 <h1 align="center">Hi 👋, I'm Nilesh Rathod</h1><h3 align="center">I am a Web and UI & UX Developer, I Passionate in Full Stack Developer 🚀 having a special interest in Frontend technologies and experience of building Web applications with Html, CSS, JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks.</h3>
 
-<div style="display:flex;>
-<p align="right">
+<p align="auto">
 <img align="right" height="300px" src="https://user-images.githubusercontent.com/79071386/186477494-ffbfc1da-01bc-417e-892f-effa3dfff49d.png" alt="nilesh01011" />
 </p>
 
-<p align="left">
+<p align="auto">
 - 🌱 I’m currently learning **Typescript, GraphQL, Redux and PHP & MySql**
 
 - 💬 Ask me about **MERN, SASS, CSS, HTML, Bootstrap, Javascript**
 
 - 📫 How to reach me **nrrathodnr818@gmail.com**
  </p>
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
