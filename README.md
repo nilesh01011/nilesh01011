@@ -13,15 +13,15 @@
 - 📫 How to reach me **nrrathodnr818@gmail.com**
  </p>
  
-    <style>
+ </div>
+ 
+   <style>
      @media screen and (max-width:768px) {
         #my_imagesBox{
             flex-direction: column;
           }
      }
-  </style>
- 
- </div>
+   </style>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
