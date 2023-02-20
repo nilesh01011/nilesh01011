@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-- 🌱 I’m currently learning **Typescript, GraphQL, Redux and PHP & MySql**
+- 🌱 I’m currently learning **Typescript, GraphQL, Redux**
 
 - 💬 Ask me about **MERN, SASS, CSS, HTML, Bootstrap, Javascript**
 
