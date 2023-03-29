@@ -9,7 +9,7 @@
 <p align="left">
 - 🌱 I’m currently learning **Typescript, GraphQL, Redux**
 
-- 💬 Ask me about **MERN, SASS, CSS, HTML, Bootstrap, Javascript**
+- 💬 Ask me about **MERN, SASS, CSS, HTML, Bootstrap, Javascript, Tailwind-CSS, NextJS**
 
 - 📫 How to reach me **nrrathodnr818@gmail.com**
  </p>
