@@ -6,9 +6,9 @@
 </p>
 
 <p align="left">
-- 🌱 I’m currently learning **Typescript, GraphQL, Redux**
+- 🌱 I’m currently learning **Typescript, GraphQL**
 
-- 💬 Ask me about **MERN, SASS, CSS, HTML, Bootstrap, Javascript, Tailwind-CSS, NextJS**
+- 💬 Ask me about **MERN, SASS, CSS, HTML, Bootstrap, Javascript, Tailwind-CSS, NextJS, Redux and more**
 
 - 📫 How to reach me **nrrathodnr818@gmail.com**
  
